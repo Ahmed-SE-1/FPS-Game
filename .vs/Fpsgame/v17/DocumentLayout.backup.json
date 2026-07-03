@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ahmed\\SP23-BSE-013\\Semester-7\\Game Developement\\Lab\\FPSGame\\Fpsgame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE70176-E684-7A8B-A0C0-28364274C5B5}|Assembly-CSharp.csproj|d:\\ahmed\\sp23-bse-013\\semester-7\\game developement\\lab\\fpsgame\\fpsgame\\assets\\models\\animations\\charactermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE70176-E684-7A8B-A0C0-28364274C5B5}|Assembly-CSharp.csproj|solutionrelative:assets\\models\\animations\\charactermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE70176-E684-7A8B-A0C0-28364274C5B5}|Assembly-CSharp.csproj|D:\\Ahmed\\SP23-BSE-013\\Semester-7\\Game Developement\\Lab\\FPSGame\\Fpsgame\\assets\\script\\fpcontrollerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE70176-E684-7A8B-A0C0-28364274C5B5}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\fpcontrollerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE70176-E684-7A8B-A0C0-28364274C5B5}|Assembly-CSharp.csproj|d:\\ahmed\\sp23-bse-013\\semester-7\\game developement\\lab\\fpsgame\\fpsgame\\assets\\script\\ammoboxscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE70176-E684-7A8B-A0C0-28364274C5B5}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ammoboxscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE70176-E684-7A8B-A0C0-28364274C5B5}|Assembly-CSharp.csproj|D:\\Ahmed\\SP23-BSE-013\\Semester-7\\Game Developement\\Lab\\FPSGame\\Fpsgame\\assets\\script\\shootingscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE70176-E684-7A8B-A0C0-28364274C5B5}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\shootingscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE70176-E684-7A8B-A0C0-28364274C5B5}|Assembly-CSharp.csproj|D:\\Ahmed\\SP23-BSE-013\\Semester-7\\Game Developement\\Lab\\FPSGame\\Fpsgame\\assets\\script\\enemyscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE70176-E684-7A8B-A0C0-28364274C5B5}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemyscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE70176-E684-7A8B-A0C0-28364274C5B5}|Assembly-CSharp.csproj|D:\\Ahmed\\SP23-BSE-013\\Semester-7\\Game Developement\\Lab\\FPSGame\\Fpsgame\\assets\\script\\doorbuttonscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE70176-E684-7A8B-A0C0-28364274C5B5}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\doorbuttonscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CharacterMovement.cs",
+              "DocumentMoniker": "D:\\Ahmed\\SP23-BSE-013\\Semester-7\\Game Developement\\Lab\\FPSGame\\Fpsgame\\Assets\\Models\\Animations\\CharacterMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Models\\Animations\\CharacterMovement.cs",
+              "ToolTip": "D:\\Ahmed\\SP23-BSE-013\\Semester-7\\Game Developement\\Lab\\FPSGame\\Fpsgame\\Assets\\Models\\Animations\\CharacterMovement.cs",
+              "RelativeToolTip": "Assets\\Models\\Animations\\CharacterMovement.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T16:47:02.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DoorButtonScript.cs",
+              "DocumentMoniker": "D:\\Ahmed\\SP23-BSE-013\\Semester-7\\Game Developement\\Lab\\FPSGame\\Fpsgame\\Assets\\Script\\DoorButtonScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\DoorButtonScript.cs",
+              "ToolTip": "D:\\Ahmed\\SP23-BSE-013\\Semester-7\\Game Developement\\Lab\\FPSGame\\Fpsgame\\Assets\\Script\\DoorButtonScript.cs",
+              "RelativeToolTip": "Assets\\Script\\DoorButtonScript.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAmwE8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T08:00:55.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyScript.cs",
+              "DocumentMoniker": "D:\\Ahmed\\SP23-BSE-013\\Semester-7\\Game Developement\\Lab\\FPSGame\\Fpsgame\\Assets\\Script\\EnemyScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\EnemyScript.cs",
+              "ToolTip": "D:\\Ahmed\\SP23-BSE-013\\Semester-7\\Game Developement\\Lab\\FPSGame\\Fpsgame\\Assets\\Script\\EnemyScript.cs",
+              "RelativeToolTip": "Assets\\Script\\EnemyScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T08:46:46.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FPControllerScript.cs",
+              "DocumentMoniker": "D:\\Ahmed\\SP23-BSE-013\\Semester-7\\Game Developement\\Lab\\FPSGame\\Fpsgame\\Assets\\Script\\FPControllerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\FPControllerScript.cs",
+              "ToolTip": "D:\\Ahmed\\SP23-BSE-013\\Semester-7\\Game Developement\\Lab\\FPSGame\\Fpsgame\\Assets\\Script\\FPControllerScript.cs",
+              "RelativeToolTip": "Assets\\Script\\FPControllerScript.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T07:06:24.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AmmoBoxScript.cs",
+              "DocumentMoniker": "D:\\Ahmed\\SP23-BSE-013\\Semester-7\\Game Developement\\Lab\\FPSGame\\Fpsgame\\Assets\\Script\\AmmoBoxScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\AmmoBoxScript.cs",
+              "ToolTip": "D:\\Ahmed\\SP23-BSE-013\\Semester-7\\Game Developement\\Lab\\FPSGame\\Fpsgame\\Assets\\Script\\AmmoBoxScript.cs",
+              "RelativeToolTip": "Assets\\Script\\AmmoBoxScript.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T08:05:47.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShootingScript.cs",
+              "DocumentMoniker": "D:\\Ahmed\\SP23-BSE-013\\Semester-7\\Game Developement\\Lab\\FPSGame\\Fpsgame\\Assets\\Script\\ShootingScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ShootingScript.cs",
+              "ToolTip": "D:\\Ahmed\\SP23-BSE-013\\Semester-7\\Game Developement\\Lab\\FPSGame\\Fpsgame\\Assets\\Script\\ShootingScript.cs",
+              "RelativeToolTip": "Assets\\Script\\ShootingScript.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAcwDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T08:33:25.944Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
